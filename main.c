@@ -1,5 +1,6 @@
 /*
  * main.c
+ * Author - Rachael Hall
  */
 
 #include <math.h>
